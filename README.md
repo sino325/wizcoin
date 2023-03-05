@@ -20,7 +20,7 @@ Here's some example code demonstrating how this module is used:
     >>>str(coin)
     '2g, 5s, 10k'
     >>>coin.value()
-    1141
+    1141125553
 
 Contribute
 ----------
